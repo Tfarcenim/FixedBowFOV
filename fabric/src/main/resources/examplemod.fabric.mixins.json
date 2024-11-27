@@ -7,7 +7,7 @@
     "mixins": [
     ],
     "client": [
-        "MixinTitleScreen"
+      "tfar.fixedbowfov.mixin.MixinTitleScreen"
     ],
     "server": [
     ],
